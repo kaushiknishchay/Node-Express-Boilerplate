@@ -33,7 +33,7 @@
     "passport": "~0.3.2",
     "passport-local": "~1.0.0",
     "pug": "^2.0.3",
-    "view-helpers": "~0.1.5",
+    "view-helpers": "~0.2.0",
     "winston": "~2.3.0"
   },
   "devDependencies": {
